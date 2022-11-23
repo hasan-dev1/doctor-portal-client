@@ -1,0 +1,17 @@
+.homebanner{
+    background: url('../../assets/images/bg.png');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+.appointment{
+    background: url(../../assets/images/appointment.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.active{
+    background: rgb(226 232 240);
+}

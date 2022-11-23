@@ -1,0 +1,12 @@
+.darkMode{
+    background-color: rgba(88, 84, 84, 0.897);
+    color: white !important;
+}
+.lightMode{
+    background-color: white;
+    color: black !important;
+}
+
+.textright{
+    text-align: end;
+}
